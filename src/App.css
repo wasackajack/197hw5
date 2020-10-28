@@ -1,0 +1,17 @@
+.post {
+    /* //border: 2px solid rgb(86, 86, 187); */
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    margin-top: -50px;
+    margin-left: -50px;
+    /* width: 100px;
+    height: 100px; */
+}
+
+.create {
+    /* //border: 2px solid rgb(86, 86, 187); */
+    position: absolute;
+    top: 5%;
+    left: 35%;
+}
